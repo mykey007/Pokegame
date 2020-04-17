@@ -24,6 +24,22 @@
   color: white;
 }
 
+.blinker h2{
+  animation: blinker 1.7s linear infinite;
+  
+}
+
+.button {
+  background: #05ffa1;
+  padding: 10px;
+}
+
+@keyframes blinker {
+  100% {
+    opacity: 0;
+  }
+}
+
 .App-link {
   color: #61dafb;
 }
