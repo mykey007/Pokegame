@@ -1,0 +1,13 @@
+.Cat {
+    /* background: purple; */
+    padding: 40px;
+}
+
+div {
+    background: rgb(27, 212, 236);
+}
+
+h1 {
+    color: plum;
+    text-shadow: 2px 3px 5px purple;
+}
