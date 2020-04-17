@@ -8,13 +8,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Cat/>
         <h1>Pokedex</h1>
       </header>
-      <section className="flexer">
         <Pokedex/>
-      </section>
-
     </div>
   );
 }
