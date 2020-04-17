@@ -1,3 +1,11 @@
+# Pokemon Card Game
+This project shows some key learning blocks on the relevant road to React
+
+* Components
+* Higher Order Components
+* JSX
+* Props
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

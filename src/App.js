@@ -1,7 +1,7 @@
 import React from 'react';
 import Cat from './Cat';
 import './App.css';
-import Pokedex from './Pokedex';
+import Pokegame from './Pokegame';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <div><h1>Pokedex</h1></div>
       </header>
-        <Pokedex/>
+        <Pokegame/>
     </div>
   );
 }
