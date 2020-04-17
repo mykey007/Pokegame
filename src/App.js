@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div className="blinker">
+        <div className="button"></div>
           <h1>Pokemon: <br/>Rock, Paper, <br/>Scissor Sisters</h1>
           <div className="button"><h2>Refresh Page</h2></div>
         </div>
