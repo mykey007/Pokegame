@@ -24,6 +24,10 @@
   color: white;
 }
 
+.blinker {
+  padding-bottom: 0;
+}
+
 .blinker h2{
   animation: blinker 1.7s linear infinite;
   
@@ -32,6 +36,7 @@
 .button {
   background: #05ffa1;
   padding: 10px;
+  
 }
 
 @keyframes blinker {

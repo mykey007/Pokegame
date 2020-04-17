@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <div className="blinker">
           <h1>Pokemon: <br/>Rock, Paper, <br/>Scissor Sisters</h1>
-          <div className="button"><h2>Refresh the Page!!</h2></div>
+          <div className="button"><h2>Refresh Page</h2></div>
         </div>
       </header>
         <Pokegame/>
